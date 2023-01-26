@@ -1,0 +1,5 @@
+--script xenon v2 crack by Larinax999
+-- discord BOOZY ROBLOX : https://discord.gg/invite/UyHQcb7U3F
+
+_G.Key="https://www.ayee.shop/shop"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Larinax999/leak/main/khemtitgamerHUB-BF.lua"))()
